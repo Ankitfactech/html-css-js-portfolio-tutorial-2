@@ -9,6 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background-color: rgba(196, 234, 115, 0.585);
 }
 
 html {
@@ -16,7 +17,7 @@ html {
 }
 
 p {
-  color: rgb(85, 85, 85);
+  color: blue;
 }
 
 /* TRANSITION */
@@ -46,7 +47,7 @@ nav {
 }
 
 a {
-  color: black;
+  color: blue;
   text-decoration: none;
   text-decoration-color: white;
 }
@@ -361,7 +362,7 @@ article .icon {
 
 .color-container {
   border-color: rgb(163, 163, 163);
-  background: rgb(250, 250, 250);
+  background: white;
 }
 
 .project-img {
